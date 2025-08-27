@@ -1,0 +1,5 @@
+// Script para simular o limitador
+loadFile("../CargaReta.mo");
+simulate(LimitadorTensao, stopTime=0.05, numberOfIntervals=5000,
+         outputFormat="mat", variableFilter=".*");
+print(getSimulationResult());

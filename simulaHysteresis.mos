@@ -1,0 +1,6 @@
+loadFile("../HysteresisEmbeddedControl.mo");
+simulate(HysteresisEmbeddedControl, stopTime=10, numberOfIntervals=1000, extraCFiles="../computeHeat.c");
+plot({HysteresisEmbeddedControl.T, HysteresisEmbeddedControl.Q},
+     legend={"Temperatura T", "Potência Q"},
+     grid=true,
+     title="Simulação de Histerese de Controle");
