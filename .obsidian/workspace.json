@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Boylestad"
             }
+          },
+          {
+            "id": "5cfc9da05494b854",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Boylestad.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Boylestad"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,8 +181,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b8089b5ed513c20a",
+  "active": "5cfc9da05494b854",
   "lastOpenFiles": [
+    "teste.kicad_pro",
+    "~teste.kicad_sch.lck",
+    "teste.kicad_sch",
+    "aulas/Aula 1 - Circuitos com diodos.pdf",
+    "aulas/Aula 3 - Análise CA do TJB.pdf",
+    "Aula 2 - Circuitos de Polarização CC do TJB.pdf",
+    "Aula 2 - Transistor de Junção Bipolar-1.pdf",
     "README.md"
   ]
 }
