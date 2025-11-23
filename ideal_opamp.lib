@@ -1,0 +1,9 @@
+* ideal_opamp.lib
+* Pin order: +IN  -IN   VCC   VEE   OUT
+.subckt ideal_opamp 1 2 3 4 5
+EOUT 5 0 1 2 1e6
+Rout 5 0 1k
+Gib 1 0 value={1e-12}
+Gib2 2 0 value={1e-12}
+.ends ideal_opamp
+

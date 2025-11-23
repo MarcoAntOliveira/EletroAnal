@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f93b9ecf60844d13",
+        "id": "76b5dce7dc78b393",
         "type": "tabs",
         "children": [
           {
-            "id": "a3bf1e562d926181",
+            "id": "32da110a623a60dc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Boylestad.pdf"
+                "file": "aulas/Aula 10_2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Boylestad"
-            }
-          },
-          {
-            "id": "5cfc9da05494b854",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Boylestad.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Boylestad"
+              "title": "Aula 10_2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,15 +168,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5cfc9da05494b854",
+  "active": "32da110a623a60dc",
   "lastOpenFiles": [
-    "teste.kicad_pro",
-    "~teste.kicad_sch.lck",
-    "teste.kicad_sch",
-    "aulas/Aula 1 - Circuitos com diodos.pdf",
-    "aulas/Aula 3 - Análise CA do TJB.pdf",
-    "Aula 2 - Circuitos de Polarização CC do TJB.pdf",
-    "Aula 2 - Transistor de Junção Bipolar-1.pdf",
-    "README.md"
+    "aulas/Aula 12 - Osciladores - Parte II.pdf",
+    "aulas/Aula 12 - Osciladores - Parte I.pdf",
+    "lista3.ipynb",
+    "#auto_saved_files#",
+    "_autosave-oscilador_deslocamento_fase.kicad_sch",
+    "~oscilador_deslocamento_fase.kicad_pro.lck",
+    "aulas/Aula 10_1-1.pdf",
+    "~ampop2ninversr.kicad_pro.lck",
+    "~ampop2ninversr.kicad_sch.lck",
+    "_autosave-ampop2.kicad_sch",
+    "~ampop2.kicad_pro.lck",
+    "README.md",
+    "letrab.png",
+    "letraa.png",
+    "curva_jfet.png",
+    "curvas_transistor.png",
+    "image.png",
+    "image-1.png",
+    "6.png"
   ]
 }
