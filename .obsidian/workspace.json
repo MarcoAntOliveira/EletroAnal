@@ -1,22 +1,22 @@
 {
   "main": {
-    "id": "0879e54d6372fd01",
+    "id": "d84721a7a5409787",
     "type": "split",
     "children": [
       {
-        "id": "76b5dce7dc78b393",
+        "id": "aa8311ce44c15b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "32da110a623a60dc",
+            "id": "8f8f78e978e20cb3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "aulas/Aula 10_2.pdf"
+                "file": "Boylestad.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Aula 10_2"
+              "title": "Boylestad"
             }
           }
         ]
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f1c4fc4a027b7202",
+    "id": "e66b04d0fcea3bb5",
     "type": "split",
     "children": [
       {
-        "id": "5ce383b41226e975",
+        "id": "bd7ec1115ce4311e",
         "type": "tabs",
         "children": [
           {
-            "id": "b8089b5ed513c20a",
+            "id": "695af7a43336736c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "c90a1dccf55e5147",
+            "id": "3e5cf6090fec3b2c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "b517f66d87a57f8c",
+            "id": "11b4cc6f09bc2b9b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,20 +79,20 @@
     "width": 300
   },
   "right": {
-    "id": "676f004a9bf23570",
+    "id": "09129b12c220f7b6",
     "type": "split",
     "children": [
       {
-        "id": "ffa71858b3561f73",
+        "id": "a8c761836dd72249",
         "type": "tabs",
         "children": [
           {
-            "id": "49ee2b80261190ba",
+            "id": "ceba803608a73c0c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boylestad.pdf",
+                "file": "listas/Lista de Exercícios Prática N2-1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,25 +102,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Boylestad"
+              "title": "Backlinks for Lista de Exercícios Prática N2-1"
             }
           },
           {
-            "id": "4618bd21dfb6f953",
+            "id": "c4690b8dca4f8c52",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boylestad.pdf",
+                "file": "listas/Lista de Exercícios Prática N2-1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Boylestad"
+              "title": "Outgoing links from Lista de Exercícios Prática N2-1"
             }
           },
           {
-            "id": "65f82296f0dd99fc",
+            "id": "5009210d02a9b482",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,18 +135,18 @@
             }
           },
           {
-            "id": "f95883810c8e7f68",
+            "id": "bb2696df4f009363",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boylestad.pdf",
+                "file": "listas/Lista de Exercícios Prática N2-1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Boylestad"
+              "title": "Outline of Lista de Exercícios Prática N2-1"
             }
           }
         ]
@@ -168,26 +168,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "32da110a623a60dc",
+  "active": "8f8f78e978e20cb3",
   "lastOpenFiles": [
-    "aulas/Aula 12 - Osciladores - Parte II.pdf",
-    "aulas/Aula 12 - Osciladores - Parte I.pdf",
-    "lista3.ipynb",
+    "listas/Lista de Exercícios Prática N2-1.pdf",
     "#auto_saved_files#",
     "_autosave-oscilador_deslocamento_fase.kicad_sch",
-    "~oscilador_deslocamento_fase.kicad_pro.lck",
-    "aulas/Aula 10_1-1.pdf",
-    "~ampop2ninversr.kicad_pro.lck",
-    "~ampop2ninversr.kicad_sch.lck",
-    "_autosave-ampop2.kicad_sch",
-    "~ampop2.kicad_pro.lck",
-    "README.md",
-    "letrab.png",
-    "letraa.png",
-    "curva_jfet.png",
-    "curvas_transistor.png",
-    "image.png",
-    "image-1.png",
-    "6.png"
+    "aulas/Aula 12 - Osciladores - Parte I.pdf",
+    "aulas/Aula 12 - Osciladores - Parte II.pdf",
+    "_autosave-filtros.kicad_sch",
+    "aulas/Schmitt Trigger.pdf",
+    "projeto1.wbk",
+    "~filtros.kicad_sch.lck",
+    "projeto1.kicad_prl",
+    "projeto1.kicad_pro"
   ]
 }

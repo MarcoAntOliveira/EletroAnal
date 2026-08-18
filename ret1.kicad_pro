@@ -242,7 +242,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ampop1.kicad_pro",
+    "filename": "ret1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -387,15 +387,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "KiCad",
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 4,
-      "workbook_filename": "ampop1.wbk"
-    },
+    "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -410,7 +402,7 @@
   },
   "sheets": [
     [
-      "83b91fb6-9439-446a-8403-492ccf0513a5",
+      "f36210b3-1023-4ff0-b3f6-793a2d5230cd",
       "Root"
     ]
   ],

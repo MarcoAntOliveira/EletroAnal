@@ -2,9 +2,9 @@
   "last_sch_text_sim_command": "",
   "tabs": [
     {
-      "analysis": "TRAN",
+      "analysis": "AC",
       "commands": [
-        ".tran 20u 100m",
+        ".ac dec 100 10m 1Meg",
         ".kicad adjustpaths",
         ".save all",
         ".probe alli",
@@ -21,14 +21,19 @@
       "showGrid": true,
       "traces": [
         {
-          "color": "rgb(247, 129, 191)",
-          "signal": "V(/out2_2)",
-          "trace_type": 257
+          "color": "rgb(228, 26, 28)",
+          "signal": "V(/out3) (gain)",
+          "trace_type": 521
         },
         {
-          "color": "rgb(141, 160, 203)",
-          "signal": "V(/out4_1)",
-          "trace_type": 257
+          "color": "rgb(77, 175, 74)",
+          "signal": "V(/out4) (gain)",
+          "trace_type": 521
+        },
+        {
+          "color": "rgb(152, 78, 163)",
+          "signal": "V(/out5) (gain)",
+          "trace_type": 521
         }
       ]
     }

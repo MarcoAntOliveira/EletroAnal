@@ -35,6 +35,32 @@
     {
       "analysis": "TRAN",
       "commands": [
+        ".tran 5u 10m 0 5u uic",
+        ".kicad adjustpaths",
+        ".save all",
+        ".probe alli",
+        ".probe allp"
+      ],
+      "dottedSecondary": true,
+      "margins": {
+        "bottom": 45,
+        "left": 70,
+        "right": 70,
+        "top": 30
+      },
+      "measurements": [],
+      "showGrid": true,
+      "traces": [
+        {
+          "color": "rgb(55, 126, 184)",
+          "signal": "V(/in3)",
+          "trace_type": 257
+        }
+      ]
+    },
+    {
+      "analysis": "TRAN",
+      "commands": [
         ".tran 5u 10m",
         ".kicad adjustpaths",
         ".save all",
@@ -53,7 +79,7 @@
       "traces": [
         {
           "color": "rgb(228, 26, 28)",
-          "signal": "V(/out)",
+          "signal": "V(/out3)",
           "trace_type": 257
         }
       ]
